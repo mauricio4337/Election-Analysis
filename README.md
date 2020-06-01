@@ -33,5 +33,11 @@ The analysis yielded the following results
   - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 total votes
 
 ## Challenge Overview
+After completed the election audit was completed, an additional task of calculating voter totals and percentages by county.  The largest county by vote count was also to be included.  The same resources were to be used and the results were to be added to the election_analysis.txt file. 
 
 ## Challenge Summary
+- The county results were:
+  - Jefferson County turned out 10.5% of the vote with 38,855 voters
+  - Denver County turned out 82.8% of the vote with 306,055 voters
+  - Arapahoe County turned out 6.7% of the with 24,801 voters
+  - The county with the largest turn out was Denver
